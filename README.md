@@ -67,18 +67,12 @@ Standford Cars
 <table>
    <tr>
       <td></td>
-      <td>CUB200</td>
-      <td></td>
-      <td>Standford Dogs</td>
-      <td></td>
-      <td>Oxford Flowers</td>
-      <td></td>
-      <td>Oxford Pets</td>
-      <td></td>
-      <td>FGVC-Aircrafts</td>
-      <td></td>
-      <td>Standford Cars</td>
-      <td></td>
+        <td colspan="2">CUB200</td>
+        <td colspan="2">Standford Dogs</td>
+        <td colspan="2">Oxford Flowers</td>
+        <td colspan="2">Oxford Pets</td>
+        <td colspan="2">FGVC-Aircrafts</td>
+        <td colspan="2">Standford Cars</td>
    </tr>
    <tr>
       <td>mAP (%)</td>
