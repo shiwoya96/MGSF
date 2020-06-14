@@ -27,38 +27,39 @@ Standford Cars
         <td colspan="2">Standford Dogs</td>
         <td colspan="2">Oxford Flowers</td>
         <td colspan="2">Oxford Pets</td>
-        <td colspan="2">FGVC\-Aircrafts</td>
+        <td colspan="2">FGVC-Aircrafts</td>
         <td colspan="2">Standford Cars</td>
+    </tr>
+    
     <tr>
-    <tr>
-        <td>mAP \(%\)</td>
-        <td>top\-1</td>
-        <td>top\-5</td>
-        <td>top\-1</td>
-        <td>top\-5</td>
-        <td>top\-1</td>
-        <td>top\-5</td>
-        <td>top\-1</td>
-        <td>top\-5</td>
-        <td>top\-1</td>
-        <td>top\-5</td>
-        <td>top\-1</td>
-        <td>top\-5</td>
-        
-    <tr>
+        <td>mAP(%)</td>
+        <td>top-1</td>
+        <td>top-5</td>
+        <td>top-1</td>
+        <td>top-5</td>
+        <td>top-1</td>
+        <td>top-5</td>
+        <td>top-1</td>
+        <td>top-5</td>
+        <td>top-1</td>
+        <td>top-5</td>
+        <td>top-1</td>
+        <td>top-5</td>    
+    </tr>
+    
     <tr>
         <td>MGSF</td>
-        <td>62\.34</td>
-        <td>67\.79</td>
-        <td>75\.82</td>
-        <td>80\.18</td>
-        <td>81\.38 </td>
-        <td>82\.89</td>
-        <td>88\.80 </td>
-        <td>90\.60</td>
-        <td>52\.69</td>
-        <td>58\.31</td>
-        <td>39\.14</td>
-        <td>46\.16</td>
-    <tr>
+        <td>62.34</td>
+        <td>67.79</td>
+        <td>75.82</td>
+        <td>80.18</td>
+        <td>81.38</td>
+        <td>82.89</td>
+        <td>88.80</td>
+        <td>90.60</td>
+        <td>52.69</td>
+        <td>58.31</td>
+        <td>39.14</td>
+        <td>46.16</td>
+    </tr>
 </table>
