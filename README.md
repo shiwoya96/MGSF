@@ -39,17 +39,17 @@ Standford Cars
       <td>top-5</td>
    </tr>
    <tr>
-      <td>MGSF</td>
+      <td>MGSF(2048dims)</td>
       <td>62.34 </td>
       <td>67.79</td>
       <td>75.82</td>
       <td>80.18 </td>
       <td>81.38 </td>
       <td>82.89</td>
-      <td>88.8</td>
-      <td>90.6</td>
-      <td>52.69</td>
-      <td>58.31</td>
+      <td>88.80</td>
+      <td>90.60</td>
+      <td>52.69/54.01(1024dims)</td>
+      <td>58.31/59.87(1024dims)</td>
       <td>39.14</td>
       <td>46.16</td>
    </tr>
