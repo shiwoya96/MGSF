@@ -18,3 +18,47 @@ Standford Cars
 | mAP \(%\) | top\-1  | top\-5 | top\-1         | top\-5  | top\-1         | top\-5 | top\-1      | top\-5 | top\-1          | top\-5 | top\-1         | top\-5 |
 | MGSF      | 62\.34  | 67\.79 | 75\.82         | 80\.18  | 81\.38         | 82\.89 | 88\.8       | 90\.6  | 52\.69          | 58\.31 | 39\.14         | 46\.16 |
 
+
+
+<table>
+    <tr>
+        <td></td>
+        <td colspan="2">CUB200</td>
+        <td colspan="2">Standford Dogs</td>
+        <td colspan="2">Oxford Flowers</td>
+        <td colspan="2">Oxford Pets</td>
+        <td colspan="2">FGVC\-Aircrafts</td>
+        <td colspan="2">Standford Cars</td>
+    <tr>
+    <tr>
+        <td>mAP \(%\)</td>
+        <td>top\-1</td>
+        <td>top\-5</td>
+        <td>top\-1</td>
+        <td>top\-5</td>
+        <td>top\-1</td>
+        <td>top\-5</td>
+        <td>top\-1</td>
+        <td>top\-5</td>
+        <td>top\-1</td>
+        <td>top\-5</td>
+        <td>top\-1</td>
+        <td>top\-5</td>
+        
+    <tr>
+    <tr>
+        <td>MGSF</td>
+        <td>62\.34</td>
+        <td>67\.79</td>
+        <td>75\.82</td>
+        <td>80\.18</td>
+        <td>81\.38 </td>
+        <td>82\.89</td>
+        <td>88\.80 </td>
+        <td>90\.60</td>
+        <td>52\.69</td>
+        <td>58\.31</td>
+        <td>39\.14</td>
+        <td>46\.16</td>
+    <tr>
+</table>
