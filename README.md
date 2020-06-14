@@ -13,7 +13,8 @@ FGVC-Aircrafts
 Standford Cars
 
 # Results
-CUB200 | Standford Dogs | Oxford Flowers | Oxford Pets | FGVC-Aircrafts | Standford Cars
-:-: | :-: | :-: | :-: | :-:
-aaa | bbb | ccc | ddd | eee| 
-fff | ggg| hhh | iii | 000|
+|  | CUB200        | Standford Dogs | Oxford Flowers | Oxford Pets   | FGVC\-Aircrafts | Standford Cars |
+|-----------|---------------|----------------|----------------|---------------|-----------------|----------------|
+|  mAP \(%\)| top\-1 |top\-5 | top\-1| top\-5  | top\-1| top\-5  | top\-1| top\-5 | top\-1 |top\-5   | top\-1| top\-5  |
+| MGSF      | 62\.34 |67\.79 | 75\.82| 80\.18  | 81\.38| 82\.89    | 88\.80 |90\.60   | 52\.69 |58\.31   | 39\.14| 46\.16  |
+
