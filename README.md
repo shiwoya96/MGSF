@@ -63,3 +63,55 @@ Standford Cars
         <td>46.16</td>
     </tr>
 </table>
+
+<table>
+   <tr>
+      <td></td>
+      <td>CUB200</td>
+      <td></td>
+      <td>Standford Dogs</td>
+      <td></td>
+      <td>Oxford Flowers</td>
+      <td></td>
+      <td>Oxford Pets</td>
+      <td></td>
+      <td>FGVC-Aircrafts</td>
+      <td></td>
+      <td>Standford Cars</td>
+      <td></td>
+   </tr>
+   <tr>
+      <td>mAP (%)</td>
+      <td>top-1</td>
+      <td>top-5</td>
+      <td>top-1</td>
+      <td>top-5</td>
+      <td>top-1</td>
+      <td>top-5</td>
+      <td>top-1</td>
+      <td>top-5</td>
+      <td>top-1</td>
+      <td>top-5</td>
+      <td>top-1</td>
+      <td>top-5</td>
+   </tr>
+   <tr>
+      <td>MGSF</td>
+      <td>62.34 </td>
+      <td>67.79</td>
+      <td>75.82</td>
+      <td>80.18 </td>
+      <td>81.38 </td>
+      <td>82.89</td>
+      <td>88.8</td>
+      <td>90.6</td>
+      <td>52.69</td>
+      <td>58.31</td>
+      <td>39.14</td>
+      <td>46.16</td>
+   </tr>
+   <tr>
+      <td></td>
+   </tr>
+</table>
+
